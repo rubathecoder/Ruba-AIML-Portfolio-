@@ -33,6 +33,6 @@ I enjoy evaluating AI systems, building practical machine learning solutions, an
 - AI Systems
 - Business Intelligence
 ## Contact
-- https://www.linkedin.com/in/ruba-datasales
+- https://www.linkedin.com/in/ruba-anwar-ai-systems
 - https://github.com/rubathecoder/Ruba-AIML-Portfolio-
 - engr.rubaanwar@gmail.com
