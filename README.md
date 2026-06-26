@@ -1,2 +1,2 @@
 # Ruba-AIML-Portfolio-
-Experienced sales professional actively transitioning to artificial intelligence, machine learning, and data science. This portfolio showcases hands-on projects, practical business applications, and my journey to connect sales expertise with future-ready AI skills, driving value and innovation in dynamic markets.
+AI and Machine Learning practitioner with a multidisciplinary background in business systems, data analytics, and applied machine learning. This portfolio demonstrates practical implementations of classification, regression, clustering, and predictive analytics projects while showcasing a structured approach to solving real-world business and healthcare problems through data-driven decision-making.
