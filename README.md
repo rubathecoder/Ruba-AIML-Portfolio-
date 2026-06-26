@@ -1,7 +1,8 @@
-# Ruba AIML Portfolio
+# Ruba Anwar | AI & Machine Learning Portfolio
 
 ## About Me
 AI and Machine Learning practitioner with a multidisciplinary background in business systems, data analytics, and operational strategy. Passionate about building practical AI solutions and applying machine learning to solve real-world problems.
+I enjoy evaluating AI systems, building practical machine learning solutions, and continuously exploring agentic AI, prompt engineering, and business-focused AI applications.
 
 ## Technical Skills
 - Python
@@ -31,3 +32,7 @@ AI and Machine Learning practitioner with a multidisciplinary background in busi
 - LLM Evaluation
 - AI Systems
 - Business Intelligence
+## Contact
+- https://www.linkedin.com/in/ruba-datasales
+- https://github.com/rubathecoder/Ruba-AIML-Portfolio-
+- engr.rubaanwar@gmail.com
